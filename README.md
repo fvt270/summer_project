@@ -12,3 +12,4 @@ Previous study inspiring this project: "yinghan_annotated-multiple_protein2024.p
 Contract associated with this project: Assignment1.docx <br>
 Explanation of the utilized Rosetta pipeline: pipeline.pdf <br>
 Mutations applied in PyMol in: pdb_mutation.py <br>
+Correlation analysis copied from the stats package in python in: correlation.py
